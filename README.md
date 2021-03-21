@@ -3,7 +3,7 @@ This is a Roll20 API script for generating random herbs.
 
 Create this macro for easy use of the script
 
----!herbs ?{Choose a Terrain|common|arctic|coastal|desert|forest|grasslands|hills|mountain|swamp|underdark|vulcanic}---
+**!herbs ?{Choose a Terrain|common|arctic|coastal|desert|forest|grasslands|hills|mountain|swamp|underdark|vulcanic}**
 
 I used many house rules for this script. You can expand the herbs cataloge inside the script or change the parameter. Follow this process:
 1. the script rollo 1d100 and sees if there is some intresting herbs on the road.
